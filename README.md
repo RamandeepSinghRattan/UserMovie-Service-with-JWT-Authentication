@@ -1,0 +1,1 @@
+A Spring Boot-based movie service application featuring JWT authentication for secure user registration and login. Users can manage their favorite movies by adding, viewing, and removing them from a personalized list. The application also allows retrieval of user details.
